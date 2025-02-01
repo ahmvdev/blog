@@ -1,0 +1,67 @@
+[
+    {
+        "id": 1,
+        "title": "Introduction to React",
+        "content": "React is a JavaScript library for building user interfaces. It allows you to create reusable components and manage state efficiently.",
+        "author": "John Doe",
+        "date": "2023-10-01",
+        "tags": [
+            "React",
+            "JavaScript",
+            "Frontend"
+        ],
+        "image": "/images/react.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Getting Started with Tailwind CSS",
+        "content": "Tailwind CSS is a utility-first CSS framework that makes it easy to build responsive and modern user interfaces.",
+        "author": "Jane Smith",
+        "date": "2023-10-05",
+        "tags": [
+            "Tailwind CSS",
+            "CSS",
+            "Frontend"
+        ],
+        "image": "/images/tailwind.jpg"
+    },
+    {
+        "id": 3,
+        "title": "Building a Blog with Next.js",
+        "content": "Next.js is a React framework that enables features like server-side rendering, static site generation, and API routes.",
+        "author": "Alice Johnson",
+        "date": "2023-10-10",
+        "tags": [
+            "Next.js",
+            "React",
+            "Fullstack"
+        ],
+        "image": "/images/nextjs.jpg"
+    },
+    {
+        "id": 4,
+        "title": "Understanding REST APIs",
+        "content": "REST APIs are a standard way to communicate between the client and server. They use HTTP methods like GET, POST, PUT, and DELETE.",
+        "author": "Bob Brown",
+        "date": "2023-10-15",
+        "tags": [
+            "API",
+            "Backend",
+            "Web Development"
+        ],
+        "image": "/images/rest-api.jpg"
+    },
+    {
+        "id": 5,
+        "title": "Mastering JavaScript Promises",
+        "content": "Promises in JavaScript are used to handle asynchronous operations. They provide a cleaner way to work with async code compared to callbacks.",
+        "author": "Charlie Davis",
+        "date": "2023-10-20",
+        "tags": [
+            "JavaScript",
+            "Async",
+            "Frontend"
+        ],
+        "image": "/images/promises.jpg"
+    }
+]
