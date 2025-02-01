@@ -1,0 +1,11 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 7, "column": 0}, "map": {"version":3,"sources":["file:///home/candy/repos/blog/src/components/ui/Header.jsx"],"sourcesContent":["export default function Header() {\n    return (\n        <>\n            <p className=\"bg-red-400 text-white flex justify-center p-4\">my travel journal.</p>\n        </>\n    )\n}"],"names":[],"mappings":";;;;;AAAe,SAAS;IACpB,qBACI;kBACI,cAAA,6WAAC;YAAE,WAAU;sBAAgD;;;;;;;AAGzE"}},
+    {"offset": {"line": 24, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"A"}},
+    {"offset": {"line": 30, "column": 0}, "map": {"version":3,"sources":["file:///home/candy/repos/blog/src/app/page.js"],"sourcesContent":["\nimport Header from \"@/components/ui/Header\";\nimport Image from \"next/image\";\n\nexport default function Main() {\n  return (\n    <div>\n      <Header></Header>\n      <Image\n        src=\"https://scrimba.com/links/travel-journal-japan-image-url\"\n        width={125}\n        height={168}\n        alt=\"japan image\" />\n    </div>\n  );\n}\n"],"names":[],"mappings":";;;;AACA;AACA;;;;AAEe,SAAS;IACtB,qBACE,6WAAC;;0BACC,6WAAC,kIAAA,CAAA,UAAM;;;;;0BACP,6WAAC,4PAAA,CAAA,UAAK;gBACJ,KAAI;gBACJ,OAAO;gBACP,QAAQ;gBACR,KAAI;;;;;;;;;;;;AAGZ"}},
+    {"offset": {"line": 64, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"A"}},
+    {"offset": {"line": 75, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":""}},
+    {"offset": {"line": 75, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"A"}}]
+}

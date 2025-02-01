@@ -1,0 +1,32 @@
+{
+  "pages": {
+    "/page": [
+      "static/chunks/[root of the server]__230d78._.css",
+      "static/chunks/_f5682b._.js",
+      "static/chunks/src_app_layout_495e10.js",
+      "static/chunks/_bc4fe4._.js",
+      "static/chunks/src_app_page_6dfe5d.js",
+      "static/chunks/a7abb_next_dist_compiled_react-dom_99acc9._.js",
+      "static/chunks/a7abb_next_dist_compiled_c9fc5a._.js",
+      "static/chunks/a7abb_next_dist_client_91ac0f._.js",
+      "static/chunks/a7abb_next_dist_98d156._.js",
+      "static/chunks/61dca_@swc_helpers_cjs_e27e0a._.js",
+      "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_d0afae._.js",
+      "static/chunks/_e69f0d._.js",
+      "static/chunks/_925e0d._.js"
+    ],
+    "/_not-found/page": [
+      "static/chunks/[root of the server]__230d78._.css",
+      "static/chunks/_f5682b._.js",
+      "static/chunks/src_app_layout_495e10.js",
+      "static/chunks/a7abb_next_dist_compiled_react-dom_99acc9._.js",
+      "static/chunks/a7abb_next_dist_compiled_c9fc5a._.js",
+      "static/chunks/a7abb_next_dist_client_91ac0f._.js",
+      "static/chunks/a7abb_next_dist_98d156._.js",
+      "static/chunks/61dca_@swc_helpers_cjs_e27e0a._.js",
+      "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_d0afae._.js",
+      "static/chunks/_e69f0d._.js",
+      "static/chunks/_925e0d._.js"
+    ]
+  }
+}
