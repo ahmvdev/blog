@@ -2,7 +2,7 @@ export default function Card({ imgSrc, imgAlt, title, country, mapsLink, dates, 
     return (
         <div className="flex p-10">
             <div className="flex-shrink-0">
-                <img src={imgSrc} className=" w-34 rounded-md size-40 h-100" alt={imgAlt} />
+                <img src={imgSrc} className=" w-[125px] h-[168px] rounded-md " alt={imgAlt} />
             </div>
             <div className="pl-5">
                 <div className="flex text-sm">

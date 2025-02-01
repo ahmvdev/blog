@@ -355,6 +355,10 @@ img, video {
   height: 15rem;
 }
 
+.h-\[168px\] {
+  height: 168px;
+}
+
 .w-24 {
   width: 6rem;
 }
@@ -365,6 +369,10 @@ img, video {
 
 .w-40 {
   width: 10rem;
+}
+
+.w-\[125px\] {
+  width: 125px;
 }
 
 .max-w-\[300px\] {
